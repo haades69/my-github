@@ -1,0 +1,17 @@
+div{
+    background-image: url('../styles/360_F_119115529_mEnw3lGpLdlDkfLgRcVSbFRuVl6sMDty.jpg');
+    background-repeat: no-repeat;
+    height:100%;
+    width: 100%;
+    background-position:center;
+    background-size: cover;
+}
+header{
+    text-align: center;
+    font-size: 50px;
+}
+form{
+    text-align: center;
+    margin: 20px 20px 20px;
+    padding: 20px 20px 20px;
+}
